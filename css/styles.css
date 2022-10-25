@@ -29,6 +29,17 @@ h3 {
 
 a {
     color: #11999E;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+}
+
+a:hover {
+    color: #EAF6F6;
+    text-shadow:
+        0 0 50px #fff,
+        0 0 150px #fff,
+        0 0 200px #fff;
 }
 
 .bio {
