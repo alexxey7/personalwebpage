@@ -31,6 +31,15 @@ a {
     color: #11999E;
 }
 
+.bio {
+    width: 30%;
+    margin: auto;
+}
+
+p {
+    line-height: 2;
+}
+
 hr {
     border-style: none;
     border-top-style: dotted;
@@ -39,6 +48,7 @@ hr {
     border-color: gray;
     margin-top: 30px;
     margin-bottom: 30px;
+    opacity: 20%;
 }
 
 
